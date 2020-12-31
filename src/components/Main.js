@@ -125,6 +125,11 @@ class Main extends React.Component {
             Established in 2016, 1UPVC is dedicated to providing an extra life (and security) to
             brands and ideas.  The company provides Build and Stake services and solutions for accelerating growth
             for small and medium sized businesses over any network type.
+
+            Special Thanks
+            </p>
+            <p>
+            Special thanks to <a href="https://html5up.net">HTML5 UP</a>. Built with: <a href="https://www.gatsbyjs.org/">Gatsby.js</a>
           </p>
           {close}
         </article>
