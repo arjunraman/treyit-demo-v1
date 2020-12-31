@@ -73,6 +73,8 @@ class Main extends React.Component {
             of the <a href='https://cardano.org/'>Cardano Project</a>.  Staking provides an opportunity for securing the Cardano
             network by processing data and keep the network trusted.
 
+
+
           </p>
           <p>
             Stake with a Partner
@@ -99,9 +101,8 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Established in 2016, 1UPVC is dedicated to providing an "extra life" to
-            brands and ideas.  The company provides <a href="#Build">Build</a> and
-             <a href="#Stake">Stake</a> services and solutions for accelerating growth
+            Established in 2016, 1UPVC is dedicated to providing an extra life (and security) to
+            brands and ideas.  The company provides Build and Stake services and solutions for accelerating growth
             for small and medium sized businesses over any network type.
           </p>
           {close}
