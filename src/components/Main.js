@@ -36,7 +36,20 @@ class Main extends React.Component {
             Build
           </p>
           <p>
-            Coming Soon
+            Our mission is to research, design, launch, and scale brands
+            and innovative ideas that make a positive sustainable impact
+            on communities and the world.
+            </p>
+            <p>
+            Our Build services are functionally focused and integrate the following disciplines
+            to promote successful operating models.
+            <ul>
+              <li>Organizational Design</li>
+              <li>Product Management</li>
+              <li>Hybrid Cloud Architecture</li>
+              <li>Cloud Computing</li>
+              <li>Cyber Security</li>
+            </ul>
           </p>
           {close}
         </article>
