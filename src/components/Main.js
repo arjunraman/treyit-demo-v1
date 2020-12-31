@@ -102,7 +102,7 @@ class Main extends React.Component {
             </p>
             <p>
             For further guidance on Cardano and stake pools, please
-            navigate <a href='https://cardano.org/stake-pool-operation/'>Cardano Stake Pool Operation for Developers</a>
+            navigate to <a href='https://cardano.org/stake-pool-operation/'>Cardano Stake Pool Operation for Developers</a>
           </p>
           {close}
         </article>
