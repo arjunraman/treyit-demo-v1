@@ -32,7 +32,7 @@ const Header = props => (
               props.onOpenArticle('work')
             }}
           >
-            Stake Pool
+            Stake
           </button>
         </li>
         <li>
