@@ -171,8 +171,8 @@ class Main extends React.Component {
               </a>
             </li>
             <li>
-              <a href="https://facebook.com" className="icon fa-facebook">
-                <span className="label">Facebook</span>
+              <a href="https://angellist.com" className="icon fa-angellist">
+                <span className="label">AngelList</span>
               </a>
             </li>
             <li>
@@ -182,7 +182,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a
-                href="https://github.com/codebushi/gatsby-starter-dimension"
+                href="https://github.com/"
                 className="icon fa-github"
               >
                 <span className="label">GitHub</span>
