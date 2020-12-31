@@ -28,12 +28,11 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Build</h2>
+          <h2 className="major">Build with Us</h2>
           <span className="image main">
             <img src={pic01} alt="" />
           </span>
           <p>
-            Build
           </p>
           <p>
             Our mission is to research, design, launch, and scale brands
@@ -61,12 +60,11 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Stake</h2>
+          <h2 className="major">Stake with Us</h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
           <p>
-            Stake with Us
             </p>
             <p>
             We beleive in a decentralized future of commerce and are supporters
