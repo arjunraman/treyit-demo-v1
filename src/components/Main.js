@@ -42,10 +42,10 @@ class Main extends React.Component {
             </p>
             <p>
             Our Build services are functionally focused and integrate the following disciplines
-            to promote successful operating models.
+            to promote successful operations at scale.
             <ul>
               <li>Organizational Design & Modeling</li>
-              <li>Product Management</li>
+              <li>Product Development & Design</li>
               <li>Solution Architecture</li>
               <li>Cloud Computing</li>
               <li>Cyber Security</li>
@@ -70,11 +70,27 @@ class Main extends React.Component {
             </p>
             <p>
             We beleive in a decentralized future of commerce and are supporters
-            of the <a href='https://cardano.org/'>Cardano Project</a>.  Staking provides an opportunity for securing the Cardano
-            network by processing data and keep the network trusted.
+            of the <a href='https://cardano.org/'>Cardano Project</a>.  Staking provides an opportunity
+            for securing the Cardano network by processing data and keep the network trusted.
+            ADA held on the Cardano network represents a stake in the network, with the size of the
+            stake proportional to the amount of ADA held. The ability to delegate a stake is fundamental to how Cardano network is secured.
+            Our staking pools groups are based in North America and aimed at helping others maximize digital asset rewards by making staking or data processing
+            accessible as a source of income to anyone.   Details of our stake pool(s) are located below.
             </p>
             <p>
-            Stake with a Partner
+            Participate by delegating to:
+            <li>Ticker: Coming Soon</li>
+            <li>Estimated Annual Reward Rate: 3-10% </li>
+            <li>Commission: Coming Soon </li>
+            <li>Delegation Hash: Coming Soon</li>
+            <li>Machine Specs: Coming Soon</li>
+            <li>Pool Margin: Coming Soon</li>
+            <li>Pledge: Coming Soon</li>
+            <li>Payout Frequency: Every Epoch (5 days)</li>
+            <li>Potential Rewards Per Epoch: Coming Soon</li>
+            </p>
+            <p>
+            Stake with a Partner & Guidance
             </p>
             <p>
             Interested in working with an larger partner to expand your network?  We've got you covered.
@@ -82,7 +98,9 @@ class Main extends React.Component {
             </p>
             <p>
             If interested, please reach out for an introduction to stake digital assets with a Partner.
-            Alternatively, use our Partner Link: <a href='staked.us/?pid=FDrCpe2et1'>Staked.US</a>| Code: FDrCpe2et1
+            Alternatively, use the following details Partner Link: <a href='staked.us/?pid=FDrCpe2et1'>Staked.US</a> | Code: FDrCpe2et1
+
+            For further guidance on Cardano and stake pools, please navigate <a href='https://staked.us/'>Staked.US</a>
           </p>
           {close}
         </article>
