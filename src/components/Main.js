@@ -72,7 +72,6 @@ class Main extends React.Component {
             We beleive in a decentralized future of commerce and are supporters
             of the <a href='https://cardano.org/'>Cardano Project</a>.  Staking provides an opportunity for securing the Cardano
             network by processing data and keep the network trusted.
-
             </p>
             <p>
             Stake with a Partner
@@ -80,10 +79,10 @@ class Main extends React.Component {
             <p>
             Interested in working with an larger partner to expand your network?  We've got you covered.
             Check out <a href='https://staked.us/'>Staked.US</a>.
-
+            </p>
+            <p>
             If interested, please reach out for an introduction to stake digital assets with a Partner.
             Alternatively, use our Partner Link: <a href='staked.us/?pid=FDrCpe2et1'>Staked.US</a>| Code: FDrCpe2et1
-
           </p>
           {close}
         </article>
