@@ -20,7 +20,7 @@ const Header = props => (
         <li>
           <button
             onClick={() => {
-              props.onOpenArticle('intro')
+              props.onOpenArticle('build')
             }}
           >
             Build
@@ -29,7 +29,7 @@ const Header = props => (
         <li>
           <button
             onClick={() => {
-              props.onOpenArticle('work')
+              props.onOpenArticle('stake')
             }}
           >
             Stake
