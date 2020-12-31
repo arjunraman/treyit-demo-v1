@@ -99,8 +99,10 @@ class Main extends React.Component {
             <p>
             If interested, please reach out for an introduction to stake digital assets with a Partner.
             Alternatively, use the following details Partner Link: <a href='staked.us/?pid=FDrCpe2et1'>Staked.US</a> | Code: FDrCpe2et1
-
-            For further guidance on Cardano and stake pools, please navigate <a href='https://staked.us/'>Staked.US</a>
+            </p>
+            <p>
+            For further guidance on Cardano and stake pools, please
+            navigate <a href='https://cardano.org/stake-pool-operation/'>Cardano Stake Pool Operation for Developers</a>
           </p>
           {close}
         </article>
