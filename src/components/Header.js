@@ -23,7 +23,7 @@ const Header = props => (
               props.onOpenArticle('intro')
             }}
           >
-            About
+            Build
           </button>
         </li>
         <li>
@@ -32,7 +32,7 @@ const Header = props => (
               props.onOpenArticle('work')
             }}
           >
-            Build
+            Stake Pool
           </button>
         </li>
         <li>
@@ -41,7 +41,7 @@ const Header = props => (
               props.onOpenArticle('about')
             }}
           >
-            Stake Pool
+            About
           </button>
         </li>
         <li>
