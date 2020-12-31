@@ -73,7 +73,10 @@ class Main extends React.Component {
             of the <a href='https://cardano.org/'>Cardano Project</a>.  Staking provides an opportunity
             for securing the Cardano network by processing data and keep the network trusted.
             ADA held on the Cardano network represents a stake in the network, with the size of the
-            stake proportional to the amount of ADA held. The ability to delegate a stake is fundamental to how Cardano network is secured.
+            stake proportional to the amount of ADA held.
+            </p>
+            <p>
+            The ability to delegate a stake is fundamental to how Cardano network is secured.
             Our staking pools groups are based in North America and aimed at helping others maximize digital asset rewards by making staking or data processing
             accessible as a source of income to anyone.   Details of our stake pool(s) are located below.
             </p>
