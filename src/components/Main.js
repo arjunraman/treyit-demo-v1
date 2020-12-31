@@ -45,7 +45,7 @@ class Main extends React.Component {
             to promote successful operations at scale.
             <ul>
               <li>Organizational Design & Modeling</li>
-              <li>Product Development & Design</li>
+              <li>Product Management</li>
               <li>Solution Architecture</li>
               <li>Supply Chain Management</li>
               <li>Cyber-Security</li>
