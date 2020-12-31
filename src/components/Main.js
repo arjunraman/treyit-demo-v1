@@ -22,8 +22,8 @@ class Main extends React.Component {
         style={this.props.timeout ? { display: 'flex' } : { display: 'none' }}
       >
         <article
-          id="intro"
-          className={`${this.props.article === 'intro' ? 'active' : ''} ${
+          id="build"
+          className={`${this.props.article === 'build' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
@@ -56,8 +56,8 @@ class Main extends React.Component {
         </article>
 
         <article
-          id="work"
-          className={`${this.props.article === 'work' ? 'active' : ''} ${
+          id="stake"
+          className={`${this.props.article === 'stake' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
@@ -97,9 +97,9 @@ class Main extends React.Component {
           </span>
           <p>
             Established in 2016, 1UPVC is dedicated to providing an "extra life" to
-            brands and ideas.  The company provides <a href="#intro">Build</a> and
-            <a href="#work">Stake</a> services and solutions for accelerating solutions
-            for small and medium sized businesses over a network.
+            brands and ideas.  The company provides <a href="#Build">Build</a> and
+            <a href="#Stake">Stake</a> services and solutions for accelerating growth
+            for small and medium sized businesses over any network type.
           </p>
           {close}
         </article>
