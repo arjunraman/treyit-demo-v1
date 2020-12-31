@@ -28,7 +28,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Intro</h2>
+          <h2 className="major">Build</h2>
           <span className="image main">
             <img src={pic01} alt="" />
           </span>
@@ -62,7 +62,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Work</h2>
+          <h2 className="major">Stake</h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
@@ -96,13 +96,10 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+            Established in 2016, 1UPVC is dedicated to providing an "extra life" to
+            brands and ideas.  The company provides <a href="#intro">Build</a> and
+            <a href="#work">Stake</a> services and solutions for accelerating solutions
+            for small and medium sized businesses over a network.
           </p>
           {close}
         </article>
