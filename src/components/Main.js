@@ -67,19 +67,22 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            Stake with Us
+
+            We beleive in a decentralized future of commerce and are supporters
+            of the <a href='https://cardano.org/'>Cardano Project</a>.  Staking provides an opportunity for securing the Cardano
+            network by processing data and keep the network trusted.
+
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+            Stake with a Partner
+
+            Interested in working with an larger partner to expand your network?  We've got you covered.
+            Check out <a href='https://staked.us/'>Staked.US</a>.
+
+            If interested, please reach out for an introduction to stake digital assets with a Partner.
+            Alternatively, use our Partner Link: <a href='staked.us/?pid=FDrCpe2et1'>Staked.US</a>| Code: FDrCpe2et1
+
           </p>
           {close}
         </article>
@@ -98,7 +101,7 @@ class Main extends React.Component {
           <p>
             Established in 2016, 1UPVC is dedicated to providing an "extra life" to
             brands and ideas.  The company provides <a href="#Build">Build</a> and
-            <a href="#Stake">Stake</a> services and solutions for accelerating growth
+             <a href="#Stake">Stake</a> services and solutions for accelerating growth
             for small and medium sized businesses over any network type.
           </p>
           {close}
