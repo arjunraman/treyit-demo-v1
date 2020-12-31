@@ -47,8 +47,8 @@ class Main extends React.Component {
               <li>Organizational Design & Modeling</li>
               <li>Product Development & Design</li>
               <li>Solution Architecture</li>
-              <li>Cloud Computing</li>
-              <li>Cyber Security</li>
+              <li>Supply Chain Management</li>
+              <li>Cyber-Security</li>
             </ul>
           </p>
           {close}
