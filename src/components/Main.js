@@ -44,9 +44,9 @@ class Main extends React.Component {
             Our Build services are functionally focused and integrate the following disciplines
             to promote successful operating models.
             <ul>
-              <li>Organizational Design</li>
+              <li>Organizational Design & Modeling</li>
               <li>Product Management</li>
-              <li>Hybrid Cloud Architecture</li>
+              <li>Solution Architecture</li>
               <li>Cloud Computing</li>
               <li>Cyber Security</li>
             </ul>
