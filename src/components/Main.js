@@ -79,14 +79,14 @@ class Main extends React.Component {
             </p>
             <p>
             Participate by delegating to:
-            <li>Ticker: Coming Soon</li>
-            <li>Estimated Annual Reward Rate: 3-10% </li>
+            <li>Ticker(s): Coming Soon</li>
+            <li>Expected Annual Reward Rate: ~3-10% </li>
             <li>Commission: Coming Soon </li>
             <li>Delegation Hash: Coming Soon</li>
             <li>Machine Specs: Coming Soon</li>
             <li>Pool Margin: Coming Soon</li>
             <li>Pledge: Coming Soon</li>
-            <li>Payout Frequency: Every Epoch (5 days)</li>
+            <li>Payout Frequency: Every Epoch (~5 days)</li>
             <li>Potential Rewards Per Epoch: Coming Soon</li>
             </p>
             <p>
@@ -102,7 +102,9 @@ class Main extends React.Component {
             </p>
             <p>
             For further guidance on Cardano and stake pools, please
-            navigate to <a href='https://cardano.org/stake-pool-operation/'>Cardano Stake Pool Operation for Developers</a>
+            navigate to <a href='https://cardano.org/stake-pool-operation/'>Cardano Stake Pool Operation for Developers</a>.  To learn how to
+            delegate your Cardano (ADA), navigate to
+            video <a href='https://www.youtube.com/watch?v=VtkjM_0k4R0'>Delegating in Daedalus Wallet for Cardano</a>
           </p>
           {close}
         </article>
