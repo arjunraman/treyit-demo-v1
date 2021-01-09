@@ -4,6 +4,8 @@ import Layout from '../components/layout'
 import Header from '../components/Header'
 import Main from '../components/Main'
 import Footer from '../components/Footer'
+import Terms from '../components/terms'
+import Privacy Policy from '../components/privacypolicy'
 
 class IndexPage extends React.Component {
   constructor(props) {
