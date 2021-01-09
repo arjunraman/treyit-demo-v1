@@ -2,7 +2,7 @@ import PropTypes from 'prop-types'
 import React from 'react'
 import '../assets/scss/main.scss'
 
-lass Main extends React.Component {
+class Main extends React.Component {
   render() {
     let close = (
       <div
