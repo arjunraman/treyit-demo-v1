@@ -11,7 +11,7 @@ const Header = props => (
       <div className="inner">
         <h1>1UPVC</h1>
         <p>
-        Provide an extra life to brands and ideas.
+        The extra life to brands and ideas.
         </p>
       </div>
     </div>
