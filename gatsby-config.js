@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: '1UPVC - An extra life for brands and ideas',
+    title: '1UPVC - The extra life for brands and ideas',
     author: '1UPVC LLC',
-    description: 'An extra life for brands and ideas',
+    description: 'The extra life for brands and ideas',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
