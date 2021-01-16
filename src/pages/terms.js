@@ -29,8 +29,8 @@ const SecondPage = () => (
     <p>You represent and warrant that your use of the Website is not contrary to law, including, without limitation, applicable privacy laws, export or import controls and sanctions. You may not use the Website where prohibited by law.</p>
     <h3>Unowned or Licensed Content</h3>
     <p>Certain content on the Website may be protected by intellectual property, trade secret or other rights. You shall not copy, upload, download or share content unless you have the right to do so.</p>
-    <h3>Interfering with the Website</h3>
-    <p>You agree not to interfere with or disrupt the Website or servers, networks or devices connected to the Website, including by transmitting any worms, viruses, spyware, malware or any other code of a destructive or disruptive nature. You shall not inject content or code or otherwise alter or interfere with the way any part of the Website is rendered or displayed in a user’s browser or device. In addition, you agree not to:
+    <h3>Interfering with the Website & Affiliated solutions</h3>
+    <p>You agree not to interfere with or disrupt the Website or servers, networks or devices connected to the Website or affiliated with website such as nodes or pools, including by transmitting any worms, viruses, spyware, malware or any other code of a destructive or disruptive nature. You shall not inject content or code or otherwise alter or interfere with the way any part of the Website is rendered or displayed in a user’s browser or device. In addition, you agree not to:
 
     (1)	probe, scan or test the vulnerability of any system or network;
 
@@ -46,7 +46,7 @@ const SecondPage = () => (
 
     </p>
 
-    <h3>Deceptive, Fraudulent, and Criminial Behavior</h3>
+    <h3>Deceptive, Fraudulent, and Criminal Behavior</h3>
     When using or accessing the Website, you agree not to:
   <p>
     (1)	act in a way that is false, fraudulent, inaccurate or deceiving;
