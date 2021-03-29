@@ -60,7 +60,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Stake with Us</h2>
+          <h2 className="major">Stake with Confidence</h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
@@ -74,11 +74,11 @@ class Main extends React.Component {
             <p>
             The ability to delegate a stake is fundamental to how Cardano network is secured.
             Our staking pools groups are based in North America and aimed at helping others maximize digital asset rewards by making staking or data processing
-            accessible as a source of income to anyone.   ADA held on the Cardano network represents a stake in the network, with the size of the
-            stake proportional to the amount of ADA held.  Details of our stake pool(s) are located below.
+            accessible as a source of value to anyone.   ADA held on the Cardano network represents a stake in the network, with the size of the
+            stake proportional to the amount of ADA held.  Details of stake pool(s) we support are located below.
             </p>
             <p>
-            Participate by delegating to:
+            Participate by delegating to the following pool(s):
             <li>Ticker(s): Coming Soon</li>
             <li>Expected Annual Reward Rate: ~3-10% </li>
             <li>Commission: Coming Soon </li>
@@ -90,7 +90,7 @@ class Main extends React.Component {
             <li>Potential Rewards Per Epoch: Coming Soon</li>
             </p>
             <p>
-            Stake with a Partner & Guidance
+            Stake with other Partners & Guidance
             </p>
             <p>
             Interested in working with an larger partner to expand your network?  We've got you covered.
