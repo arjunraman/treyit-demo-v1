@@ -79,7 +79,7 @@ class Main extends React.Component {
             </p>
             <p>
             Participate by delegating to the following pool(s):
-            <li>Ticker(s): Coming Soon</li>
+            <li>Ticker(s): CAIRN</li>
             <li>Expected Annual Reward Rate: ~3-10% </li>
             <li>Commission: Coming Soon </li>
             <li>Delegation Hash: Coming Soon</li>
@@ -121,7 +121,7 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Established in 2016, 1UPVC is dedicated to providing an extra life (and security) to
+            Established in 2020, CAIRNZ is dedicated to providing an extra life (and security) to
             brands and ideas.  The company provides Build and Stake services and solutions for accelerating growth
             for small and medium sized businesses over any network type.
 
