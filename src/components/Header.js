@@ -9,9 +9,9 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>1UPVC</h1>
+        <h1>CAIRNZ</h1>
         <p>
-        The extra life to brands and ideas.
+        The path for sustainable ideas.
         </p>
       </div>
     </div>
