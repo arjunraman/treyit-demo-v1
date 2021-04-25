@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: '1UPVC - The extra life for brands and ideas',
+    title: 'Cairnz- The path for sustaintable ideas',
     author: '1UPVC LLC',
-    description: 'The extra life for brands and ideas',
+    description: 'Cairnz- The path for sustaintable ideas',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
