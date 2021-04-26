@@ -35,19 +35,17 @@ class Main extends React.Component {
           <p>
           </p>
           <p>
-            Our mission is to research, design, launch, and scale brands
-            and innovative ideas that make a positive sustainable impact
-            on communities and the world.
+            Our mission is to simple: ideas grow to follow known and unknown paths.
+            We strive to make ideas sustainable with a positive impact.
             </p>
             <p>
-            Our Build services are functionally focused and integrate the following disciplines
-            to promote successful operations at scale.
+            Our Build strategy focuses on known and unknown support:
             <ul>
-              <li>Organizational Design & Modeling</li>
-              <li>Product Management</li>
-              <li>Solution Architecture</li>
+              <li>Asset Strategy</li>
+              <li>Product Design</li>
+              <li>Security</li>
               <li>Supply Chain Management</li>
-              <li>Cyber-Security</li>
+              <li>Unknown Factors or Z Factors</li>
             </ul>
           </p>
           {close}
@@ -121,9 +119,9 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Established in 2020, CAIRNZ is dedicated to providing an extra life (and security) to
-            brands and ideas.  The company provides Build and Stake services and solutions for accelerating growth
-            for small and medium sized businesses over any network type.
+            Established in 2020, CAIRNZ is dedicated to providing a sustainable path to ideas.  Often, the path to success has Unknown
+            and unknown markers.  Navigating is the path or cairn and what to do when unknown (z) can make all the difference.  while help
+            with security and network based solutions for organizations to understand their path.
 
             Special Thanks
             </p>
