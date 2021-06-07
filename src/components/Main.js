@@ -129,12 +129,12 @@ class Main extends React.Component {
             </div>
             <div className="field half">
               <label htmlFor="cat">Item Category</label>
-              <input type="form-control" name="cat" id="cat" />
-              <option>1</option>
-              <option>2</option>
-              <option>3</option>
-              <option>4</option>
-              <option>5</option>
+              <input class="form-control" name="cat" id="cat" />
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
               </select>
             </div>
             <div className="field half">
