@@ -135,7 +135,7 @@ class Main extends React.Component {
                 <option>3</option>
                 <option>4</option>
                 <option>5</option>
-              </select>
+                
             </div>
             <div className="field half">
               <label htmlFor="city">Your City (USA only)</label>
