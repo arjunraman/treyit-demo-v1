@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Cairnz- The path for sustaintable ideas',
+    title: 'TreyIt - Find Sweet Deals',
     author: '1UPVC LLC',
-    description: 'Cairnz- The path for sustaintable ideas',
+    description: 'TreyIt - Find Sweet Deals',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
