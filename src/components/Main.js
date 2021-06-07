@@ -127,9 +127,17 @@ class Main extends React.Component {
               <label htmlFor="email">Email</label>
               <input type="text" name="email" id="email" />
             </div>
+            <div className="field half">
+              <label htmlFor="item">Item Category</label>
+              <input type="text" name="email" id="email" />
+            </div>
+            <div className="field half">
+              <label htmlFor="city">Your City?</label>
+              <input type="text" name="email" id="email" />
+            </div>
             <div className="field">
-              <label htmlFor="message">Message</label>
-              <textarea name="message" id="message" rows="4"></textarea>
+              <label htmlFor="description">Item Description</label>
+              <textarea name="description" id="description" rows="4"></textarea>
             </div>
             <ul className="actions">
               <li>
