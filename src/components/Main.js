@@ -28,24 +28,23 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Build with Us</h2>
+          <h2 className="major">About</h2>
           <span className="image main">
             <img src={pic01} alt="" />
           </span>
           <p>
           </p>
           <p>
-            Our mission is to simple: ideas grow to follow known and unknown paths.
-            We strive to make ideas sustainable with a positive impact.
+            TBD
             </p>
             <p>
-            Our Build strategy focuses on known and unknown support:
+            TBD
             <ul>
-              <li>Asset Strategy</li>
-              <li>Product Design</li>
-              <li>Security</li>
-              <li>Supply Chain Management</li>
-              <li>Unknown Factors or Z Factors</li>
+              <li>TBD</li>
+              <li>TBD</li>
+              <li>TBD</li>
+              <li>TBD</li>
+              <li>TBD</li>
             </ul>
           </p>
           {close}
@@ -58,51 +57,33 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Stake with Confidence</h2>
+          <h2 className="major">TBD/h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
           <p>
             </p>
             <p>
-            We beleive in a decentralized future of commerce and are supporters
-            of the <a href='https://cardano.org/'>Cardano Project</a>.  Staking provides an opportunity
-            for securing the Cardano network by processing data and keeping the network trusted.
+            TBD
             </p>
             <p>
-            The ability to delegate a stake is fundamental to how Cardano network is secured.
-            Our staking pools groups are based in North America and aimed at helping others maximize digital asset rewards by making staking or data processing
-            accessible as a source of value to anyone.   ADA held on the Cardano network represents a stake in the network, with the size of the
-            stake proportional to the amount of ADA held.  Details of stake pool(s) we support are located below.
+            TBD
             </p>
             <p>
-            Participate by delegating to the following pool(s):
-            <li>Ticker(s): CAIRN</li>
-            <li>Expected Annual Reward Rate: ~3-10% </li>
-            <li>Commission: Coming Soon </li>
-            <li>Delegation Hash: Coming Soon</li>
-            <li>Machine Specs: Coming Soon</li>
-            <li>Pool Margin: Coming Soon</li>
-            <li>Pledge: Coming Soon</li>
-            <li>Payout Frequency: Every Epoch (~5 days)</li>
-            <li>Potential Rewards Per Epoch: Coming Soon</li>
+            TBD
+
             </p>
             <p>
-            Stake with other Partners & Guidance
+            TBD
             </p>
             <p>
-            Interested in working with an larger partner to expand your network?  We've got you covered.
-            Check out <a href='https://staked.us/'>Staked.US</a>.
+            TBD
             </p>
             <p>
-            If interested, please reach out for an introduction to stake digital assets with a Partner.
-            Alternatively, use the following details Partner Link: <a href='staked.us/?pid=FDrCpe2et1'>Staked.US</a> | Code: FDrCpe2et1
+            TBD
             </p>
             <p>
-            For further guidance on Cardano and stake pools, please
-            navigate to <a href='https://cardano.org/stake-pool-operation/'>Cardano Stake Pool Operation for Developers</a>.  To learn how to
-            delegate your Cardano (ADA), navigate to
-            video <a href='https://www.youtube.com/watch?v=VtkjM_0k4R0'>Delegating in Daedalus Wallet for Cardano</a>
+            TBD
           </p>
           {close}
         </article>
@@ -114,16 +95,12 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">About</h2>
+          <h2 className="major">Future</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
           <p>
-            Established in 2020, CAIRNZ is dedicated to providing a sustainable path to ideas.  Often, the path to success has Unknown
-            and unknown markers.  Navigating is the path or cairn and what to do when unknown (z) can make all the difference.  while help
-            with security and network based solutions for organizations to understand their path.
-
-            Special Thanks
+            TBD
             </p>
             <p>
             Special thanks to <a href="https://html5up.net">HTML5 UP</a>. Built with: <a href="https://www.gatsbyjs.org/">Gatsby.js</a>
@@ -138,7 +115,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Contact</h2>
+          <h2 className="major">Request</h2>
           <form method="post" action="#" netlify-honeypot="bot-field" data-netlify="true" name="contact" onSubmit='submit'>
             <input type="hidden" name="bot-field" />
             <input type="hidden" name="form-name" value="contact" />
