@@ -9,9 +9,9 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>CAIRNZ</h1>
+        <h1>TREY IT</h1>
         <p>
-        The path for sustainable ideas.
+        Find Sweet Deals with Trey.  Trey It.
         </p>
       </div>
     </div>
@@ -23,7 +23,7 @@ const Header = props => (
               props.onOpenArticle('build')
             }}
           >
-            Build
+            About
           </button>
         </li>
         <li>
@@ -32,7 +32,7 @@ const Header = props => (
               props.onOpenArticle('stake')
             }}
           >
-            Stake
+            Categories of Requests
           </button>
         </li>
         <li>
@@ -41,7 +41,7 @@ const Header = props => (
               props.onOpenArticle('about')
             }}
           >
-            About
+            Future Services
           </button>
         </li>
         <li>
@@ -50,7 +50,7 @@ const Header = props => (
               props.onOpenArticle('contact')
             }}
           >
-            Contact
+            Request
           </button>
         </li>
       </ul>
