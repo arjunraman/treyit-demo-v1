@@ -132,7 +132,7 @@ class Main extends React.Component {
               <input type="text" name="cat" id="cat" />
             </div>
             <div className="field half">
-              <label htmlFor="city">Your in USA?</label>
+              <label htmlFor="city">Your City (USA only)</label>
               <input type="text" name="city" id="city" />
             </div>
             <div className="field">
