@@ -128,16 +128,16 @@ class Main extends React.Component {
               <input type="text" name="email" id="email" />
             </div>
             <div className="field half">
-              <label htmlFor="item">Item Category</label>
-              <input type="text" name="email" id="email" />
+              <label htmlFor="cat">Item Category</label>
+              <input type="text" name="cat" id="cat" />
             </div>
             <div className="field half">
-              <label htmlFor="city">Your City?</label>
-              <input type="text" name="email" id="email" />
+              <label htmlFor="city">Your in USA?</label>
+              <input type="text" name="city" id="city" />
             </div>
             <div className="field">
               <label htmlFor="description">Item Description</label>
-              <textarea name="description" id="description" rows="4"></textarea>
+              <textarea name="description" id="description" rows="2"></textarea>
             </div>
             <ul className="actions">
               <li>
