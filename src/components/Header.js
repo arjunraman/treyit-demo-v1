@@ -11,7 +11,7 @@ const Header = props => (
       <div className="inner">
         <h1>TREY IT</h1>
         <p>
-        Find Sweet Deals with Trey.  Trey It.
+        Find Sweet Deals with Trey.  Try It.
         </p>
       </div>
     </div>
