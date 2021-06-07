@@ -127,7 +127,7 @@ class Main extends React.Component {
               <label htmlFor="email">Email</label>
               <input type="text" name="email" id="email" />
             </div>
-            <div className="form-control">
+            <div className="form-group">
               <label htmlFor="cat">Item Category</label>
               <input class="form-control" name="cat" id="cat" />
                 <option>1</option>
