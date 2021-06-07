@@ -32,7 +32,7 @@ const Header = props => (
               props.onOpenArticle('stake')
             }}
           >
-            Categories of Requests
+            Categories
           </button>
         </li>
         <li>
@@ -41,7 +41,7 @@ const Header = props => (
               props.onOpenArticle('about')
             }}
           >
-            Future Services
+            Future
           </button>
         </li>
         <li>
