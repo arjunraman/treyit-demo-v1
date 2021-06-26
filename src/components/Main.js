@@ -35,11 +35,22 @@ class Main extends React.Component {
           <p>
           </p>
           <p>
+            <p>
             F**K IT: Want something, but can't afford it (retail)
+            </p>
+            <p>
             LOVE IT: Everybody loves a good deal
+            </p>
+            <p>
             NEED IT: Need it badly, but have limited time to search?
+            </p>
+            <p>
             TRY IT: Try it with TreyIt - submit a search, and we can help with it
+            </p>
+            <p>
             OWN IT: We'll send you deals to secure on marketplaces (e.g.,Craigslist)
+            </p>
+            <p>
             TREY IT: All you need to do is tag it - #treyit
             </p>
             <p>
