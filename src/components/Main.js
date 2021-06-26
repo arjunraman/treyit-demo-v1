@@ -41,10 +41,10 @@ class Main extends React.Component {
             LOVE IT: Everybody loves a good deal
             </p>
             <p>
-            NEED IT: Need it badly, but have limited time to search?
+            NEED IT: Need it badly or quickly, but have limited time to search?
             </p>
             <p>
-            TRY IT: Try it with TreyIt - submit a search, and we can find deals for you
+            TRY IT: Try it with TreyIt - submit a search, and we can find FAST deals for you within the hour
             </p>
             <p>
             OWN IT: We'll send you deals to secure on marketplaces (e.g.,Craigslist)
@@ -78,7 +78,7 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            TRY IT: Try it with TreyIt - submit a search, and we can help with it
+            TRY IT: Try it with TreyIt - submit a search, and we can help with it within 1 hour
             </p>
             <p>
             Categories
