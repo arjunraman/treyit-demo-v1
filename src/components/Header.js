@@ -14,7 +14,7 @@ const Header = props => (
         F**K It | Love It | Need It | Try It | Own It | Trey It
         </p>
         <p>
-        Find Sweet 2nd Hand Deals You've Always Wanted with Trey. #treyit
+        Find Sweet 2nd Hand Deals You've Always Wanted with Trey.
         </p>
         <p>
         #treyit
