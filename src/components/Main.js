@@ -44,7 +44,7 @@ class Main extends React.Component {
             NEED IT: Need it badly, but have limited time to search?
             </p>
             <p>
-            TRY IT: Try it with TreyIt - submit a search, and we can help with it
+            TRY IT: Try it with TreyIt - submit a search, and we can find deals for you
             </p>
             <p>
             OWN IT: We'll send you deals to secure on marketplaces (e.g.,Craigslist)
@@ -73,7 +73,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">TBD</h2>
+          <h2 className="major">Deal Categories</h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
@@ -121,7 +121,7 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-
+              Coming Soon...
             </p>
             <p>
             Special thanks to <a href="https://html5up.net">HTML5 UP</a>. Built with: <a href="https://www.gatsbyjs.org/">Gatsby.js</a>
