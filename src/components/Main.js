@@ -149,7 +149,7 @@ class Main extends React.Component {
               <input type="text" name="email" id="email" />
             </div>
             <div className="field half">
-              <label htmlFor="cat">Item or Deal Category <select name="role[]" id="cat">
+              <label htmlFor="cat">Item or Deal Category <select name="cat" id="cat">
         <option value="antiques">Antiques</option>
         <option value="appliances">Appliances</option>
         <option value="auto parts">Auto Parts</option>
