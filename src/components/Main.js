@@ -35,7 +35,6 @@ class Main extends React.Component {
           <p>
           </p>
           <p>
-            <p>
             F**K IT: Want something, but can't afford it (retail)
             </p>
             <p>
@@ -61,7 +60,7 @@ class Main extends React.Component {
               <li>Receive a simple email or text every 12-24 hour period with timely deals</li>
               <li>Secure your deal with TreyIt - your personal conceirage</li>
               <li>Tag us on Social Media #treyit</li>
-              <li></li>
+
             </ul>
           </p>
           {close}
