@@ -150,7 +150,7 @@ class Main extends React.Component {
             </div>
             <div className="field half">
               <label htmlFor="cat">Item or Deal Category</label>
-              <select type= "text" name="cat" id="cat"
+              <select name="cat" id="cat"
                   <option value="Year 7">Year 7</option>
                   <option value="Year 8">Year 8</option>
                   <option value="Year 9">Year 9</option>
