@@ -146,7 +146,7 @@ class Main extends React.Component {
             </div>
             <div className="field half">
               <label htmlFor="email">Email</label>
-              <input type="text" name="email" id="email" />
+              <input type="text" name="email" id="email" required />
             </div>
             <div className="field half">
               <label htmlFor="cat">Item or Deal Category <select name="cat" id="cat">
@@ -175,11 +175,11 @@ class Main extends React.Component {
             </div>
             <div className="field half">
               <label htmlFor="city">Your City (USA only)</label>
-              <input type="text" name="city" id="city" />
+              <input type="text" name="city" id="city" required/>
             </div>
             <div className="field">
               <label htmlFor="description">Item Description</label>
-              <textarea name="description" id="description" rows="2"></textarea>
+              <textarea name="description" id="description" required rows="2"></textarea>
             </div>
             <ul className="actions">
               <li>
