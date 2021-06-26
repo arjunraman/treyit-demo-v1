@@ -11,7 +11,8 @@ const Header = props => (
       <div className="inner">
         <h1>TREY IT</h1>
         <p>
-        Find Sweet Deals with Trey.  Try It.
+        F**K It | Love It | Need It | Try It | Own It | Trey It
+        Find Sweet 2nd Hand Deals You've Always with Trey. #treyit
         </p>
       </div>
     </div>
