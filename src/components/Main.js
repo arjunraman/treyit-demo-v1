@@ -149,8 +149,18 @@ class Main extends React.Component {
               <input type="text" name="email" id="email" />
             </div>
             <div className="field half">
-              <label htmlFor="cat">Item Category</label>
+              <label htmlFor="cat">Item or Deal Category</label>
               <input type="text" name="cat" id="cat" />
+              <select name="year-group">
+                  <option value="Year 7">Year 7</option>
+                  <option value="Year 8">Year 8</option>
+                  <option value="Year 9">Year 9</option>
+                  <option value="Year 10">Year 10</option>
+                  <option value="Year 11">Year 11</option>
+                  <option value="Year 12">Year 12</option>
+                  <option value="Year 13">Year 13</option>
+                  <option value="GCSE Retake">GCSE Retake</option>
+              </select><br />
             </div>
             <div className="field half">
               <label htmlFor="city">Your City (USA only)</label>
