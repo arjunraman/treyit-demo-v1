@@ -152,7 +152,7 @@ class Main extends React.Component {
               <label htmlFor="cat">Item or Deal Category <select name="role[]" id="cat" multiple>
         <option value="leader">Leader</option>
         <option value="follower">Follower</option>
-      </select></label>
+       </select><br /></label>
             </div>
             <div className="field half">
               <label htmlFor="city">Your City (USA only)</label>
