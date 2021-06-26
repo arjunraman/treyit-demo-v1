@@ -150,8 +150,27 @@ class Main extends React.Component {
             </div>
             <div className="field half">
               <label htmlFor="cat">Item or Deal Category <select name="role[]" id="cat">
-        <option value="leader">Leader</option>
-        <option value="follower">Follower</option>
+        <option value="antiques">Antiques</option>
+        <option value="appliances">Appliances</option>
+        <option value="auto parts">Auto Parts</option>
+        <option value="bikes">Bikes</option>
+        <option value="boatparts">Boat Parts</option>
+        <option value="books">Books</option>
+        <option value="cars">Cars</option>
+        <option value="computerparts">Computer Parts</option>
+        <option value="electronics">Electronics</option>
+        <option value="furniture">Furniture</option>
+        <option value="gardening">Gardening</option>
+        <option value="gym">Gym</option>
+        <option value="jewelry">Jewelry</option>
+        <option value="motorcycles">Motorcyles</option>
+        <option value="musicinstruments">Music Instruments</option>
+        <option value="photography">Photography</option>
+        <option value="sports">Sports</option>
+        <option value="tools">Tools</option>
+        <option value="toysandgames">Toys & Games</option>
+        <option value="videogames">Video Games</option>
+        <option value="wildcard">Wildcard</option>
        </select><br /></label>
             </div>
             <div className="field half">
