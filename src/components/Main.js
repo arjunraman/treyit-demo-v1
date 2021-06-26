@@ -35,16 +35,22 @@ class Main extends React.Component {
           <p>
           </p>
           <p>
-            TBD
+            F**K IT: Want something, but can't afford it (retail)
+            LOVE IT: Everybody loves a good deal
+            NEED IT: Need it badly, but have limited time to search?
+            TRY IT: Try it with TreyIt - submit a search, and we can help with it
+            OWN IT: We'll send you deals to secure on marketplaces (e.g.,Craigslist)
+            TREY IT: All you need to do is tag it - #treyit
             </p>
             <p>
-            TBD
+            Goal: Searching second hand goods is hard, we make it easy.
             <ul>
-              <li>TBD</li>
-              <li>TBD</li>
-              <li>TBD</li>
-              <li>TBD</li>
-              <li>TBD</li>
+              <li>Submit it a form</li>
+              <li>Trey will search based on your interest in second hand goods</li>
+              <li>Receive a simple email or text every 12-24 hour period with timely deals</li>
+              <li>Secure your deal with TreyIt - your personal conceirage</li>
+              <li>Tag us on Social Media #treyit</li>
+              <li></li>
             </ul>
           </p>
           {close}
@@ -62,28 +68,33 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
+            TRY IT: Try it with TreyIt - submit a search, and we can help with it
             </p>
             <p>
-            TBD
-            </p>
-            <p>
-            TBD
-            </p>
-            <p>
-            TBD
-
-            </p>
-            <p>
-            TBD
-            </p>
-            <p>
-            TBD
-            </p>
-            <p>
-            TBD
-            </p>
-            <p>
-            TBD
+            Categories
+            <ul>
+              <li>Antiques</li>
+              <li>Appliances</li>
+              <li>Auto Parts</li>
+              <li>Bikes</li>
+              <li>Boat Parts</li>
+              <li>Books</li>
+              <li>Cars</li>
+              <li>Computer Parts</li>
+              <li>Electronics</li>
+              <li>Furniture</li>
+              <li>Gardening</li>
+              <li>Gym</li>
+              <li>Jewelry</li>
+              <li>Motorcycles</li>
+              <li>Music Instruments</li>
+              <li>Photography</li>
+              <li>Sports</li>
+              <li>Tools</li>
+              <li>Toys & Games</li>
+              <li>Video Games</li>
+              <li>Wildcard</li>
+            </ul>
           </p>
           {close}
         </article>
@@ -100,7 +111,7 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            TBD
+
             </p>
             <p>
             Special thanks to <a href="https://html5up.net">HTML5 UP</a>. Built with: <a href="https://www.gatsbyjs.org/">Gatsby.js</a>
