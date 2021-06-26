@@ -150,6 +150,7 @@ class Main extends React.Component {
             </div>
             <div className="field half">
               <label htmlFor="cat">Item or Deal Category <select name="cat" id="cat">
+        <option value="wildcard">All Categories</option>
         <option value="antiques">Antiques</option>
         <option value="appliances">Appliances</option>
         <option value="auto parts">Auto Parts</option>
@@ -170,7 +171,6 @@ class Main extends React.Component {
         <option value="tools">Tools</option>
         <option value="toysandgames">Toys & Games</option>
         <option value="videogames">Video Games</option>
-        <option value="wildcard">Wildcard</option>
        </select><br /></label>
             </div>
             <div className="field half">
