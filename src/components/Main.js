@@ -38,7 +38,7 @@ class Main extends React.Component {
             F**K IT: Want something, but can't afford it (retail)
             </p>
             <p>
-            LOVE IT: Everybody loves a good deal
+            LOVE IT: Everybody loves a good deal within a day
             </p>
             <p>
             NEED IT: Need it badly or quickly, but have limited time to search?
@@ -47,7 +47,7 @@ class Main extends React.Component {
             TRY IT: Try it with TreyIt - submit a search, and we can find FAST deals for you within the hour
             </p>
             <p>
-            OWN IT: We'll send you deals to secure on marketplaces (e.g.,Craigslist)
+            OWN IT: We'll send you deals to secure on marketplaces (e.g.,Craigslist) for that day
             </p>
             <p>
             TREY IT: All you need to do is tag it - #treyit
@@ -174,8 +174,38 @@ class Main extends React.Component {
        </select><br /></label>
             </div>
             <div className="field half">
-              <label htmlFor="city">Your City (USA only)</label>
-              <input type="text" name="city" id="city" required/>
+            <label htmlFor="city">US City<select name="city" id="city">
+      <option value="wildcard">All Cities</option>
+      <option value="atlanta">Atlanta</option>
+      <option value="austin">Austin</option>
+      <option value="baltimore">Baltimore</option>
+      <option value="charlotte">Charlotte</option>
+      <option value="chicago">Chicago</option>
+      <option value="columbus">Columbus</option>
+      <option value="dallas">Dallas</option>
+      <option value="denver">Denver</option>
+      <option value="elpaso">El Paso</option>
+      <option value="houston">Houston</option>
+      <option value="indianapolis">Indianapolis</option>
+      <option value="jacksonville">Jacksonville</option>
+      <option value="lasvegas">Las Vegas</option>
+      <option value="losangeles">Los Angeles</option>
+      <option value="louisville">Louisville</option>
+      <option value="memphis">Memphis</option>
+      <option value="milwaukee">Milwaukee</option>
+      <option value="nashville">Nashville</option>
+      <option value="newyork">New York City</option>
+      <option value="oklahomacity">Oklahoma City</option>
+      <option value="philadelphia">Philadelphia</option>
+      <option value="phoenix">Phoenix</option>
+      <option value="portland">Portland</option>
+      <option value="sanantonio">San Antonio</option>
+      <option value="sandiego">San Diego</option>
+      <option value="sfbay">San Francisco</option>
+      <option value="sanjose">San Jose</option>
+      <option value="seattle">Seattle</option>
+      <option value="washingtondc">Washington D.C.</option>
+     </select><br /></label>
             </div>
             <div className="field">
               <label htmlFor="description">Item Description</label>
