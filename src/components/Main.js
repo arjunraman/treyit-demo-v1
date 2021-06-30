@@ -176,7 +176,6 @@ class Main extends React.Component {
             </div>
             <div className="field half">
             <label htmlFor="city">US City<select name="city" id="city">
-      <option value="wildcard">All Cities</option>
       <option value="atlanta">Atlanta</option>
       <option value="austin">Austin</option>
       <option value="baltimore">Baltimore</option>
