@@ -136,7 +136,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Request</h2>
+          <h2 className="major">Search</h2>
           <form method="post" action="#" netlify-honeypot="bot-field" data-netlify="true" name="contact" onSubmit='submit'>
             <input type="hidden" name="bot-field" />
             <input type="hidden" name="form-name" value="contact" />
