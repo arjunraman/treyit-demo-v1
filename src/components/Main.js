@@ -188,6 +188,7 @@ class Main extends React.Component {
       <option value="houston">Houston</option>
       <option value="indianapolis">Indianapolis</option>
       <option value="jacksonville">Jacksonville</option>
+      <option value="newjersey">Jersey City</option>
       <option value="lasvegas">Las Vegas</option>
       <option value="losangeles">Los Angeles</option>
       <option value="louisville">Louisville</option>
