@@ -209,7 +209,7 @@ class Main extends React.Component {
      </select><br /></label>
             </div>
             <div className="field">
-              <label htmlFor="description">Item Description</label>
+              <label htmlFor="description">Your Simple Search Terms</label>
               <textarea name="description" id="description" required rows="2"></textarea>
             </div>
             <ul className="actions">
